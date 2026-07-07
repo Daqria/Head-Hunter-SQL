@@ -23,9 +23,9 @@
 
 - Python 3.10+
 - PostgreSQL
-- [pandas](https://pandas.pydata.org/) — вывод результатов запросов
-- [psycopg2](https://www.psycopg.org/) — подключение к БД
-- [Jupyter Notebook](https://jupyter.org/) — среда выполнения
+- pandas — вывод результатов запросов
+- psycopg2 — подключение к БД
+- Jupyter Notebook — среда выполнения
 
 ## Быстрый старт
 
